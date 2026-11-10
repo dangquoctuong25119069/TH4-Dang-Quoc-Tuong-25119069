@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "name": "TH4 - Tai lieu",
+      "path": "."
+    },
+    {
+      "path": "bai1-rest"
+    },
+    {
+      "path": "bai2-mqtt-pub"
+    },
+    {
+      "path": "bai3-mqtt-sub-led"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "aet2022-th4-nodered",
+  "version": "1.0.0",
+  "description": "Flow Node-RED TH4 AET2022: dashboard nhiệt/ẩm + điều khiển LED qua MQTT",
+  "private": true,
+  "dependencies": {
+    "node-red-dashboard": "~3.6.5"
+  },
+  "engines": {
+    "node": ">=18",
+    "node-red": ">=3.1"
+  }
+}
